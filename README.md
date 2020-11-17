@@ -1,2 +1,2 @@
-# culturize-mskgent
-Nginx server configuration files from CultURIze for MSK Gent.
+# CultURIze-based PURLs for the MSK Gent
+Nginx server configuration files from CultURIze.
